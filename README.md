@@ -24,7 +24,7 @@ Tankred
 
 ## License
 
-Add link to license file for details
+(GPL v3)[LICENSE.md]
 
 ## Acknowledgments
 
