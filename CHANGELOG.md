@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.2.1] - 2021-10-20
+### Added
+- Manifest
+
 ## [0.2.0] - 2021-10-19
 ### Added
 - GPL v3 LICENSE
