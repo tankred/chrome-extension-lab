@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.2.3] - 2021-10-25
+### Added
+- Popup JS and html
+
 ## [0.2.2] - 2021-10-22
 ### Added
 - Background JS
