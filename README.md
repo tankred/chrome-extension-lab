@@ -8,11 +8,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Using Our Extension
+Loading our extension into chrome couldn't be easier. Go to the extensions menu with the url:
 
 ```
-Give examples
+chrome://extensions/
 ```
+
+Make sure developer mode is enabled (can be done in the top right corner), and then press "Load unpacked".
+
 
 ## Versioning
 
